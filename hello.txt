@@ -27,3 +27,5 @@ public static main(String[] args){
   System.out.println("Your are such a cute little girl ");
 }
 select * from git_Demo where name = "hello I'm Linghuchong"
+select * from I'm yuebuqun
+
